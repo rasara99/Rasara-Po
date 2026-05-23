@@ -1,0 +1,101 @@
+baseURL: "https://rasarachamodi.github.io/" 
+title: Rasara Chamodi Perera
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Projects
+          url: projects/
+          weight: 1 
+        - name: Education
+          url: education/
+          weight: 2
+        - name: Skills
+          url: skills/
+          weight: 3
+        - name: Contact & Info
+          url: contact/
+          weight: 4
+
+params:
+    description: "Portfolio website of Rasara Chamodi Perera, Software Engineering Graduate, Cloud Networking Enthusiast, and Junior Software Developer."
+    author: Rasara Chamodi Perera
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["projects","education"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Rasara Chamodi Perera
+          subtitle: "Software Engineering Graduate | Cloud Networking Enthusiast | Junior Software Developer. Motivated and detail-oriented Software Engineering graduate with a strong academic foundation in software development, cloud networking, database management, and modern web technologies. Seeking an entry-level opportunity to contribute technical knowledge and grow professionally."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Projects
+              url: projects/
+            - name: Education
+              url: education/
+            - name: Skills
+              url: skills/
+            - name: Contact & Info
+              url: contact/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:rasarachamodiperera@gmail.com
+        - name: LinkedIn
+          url: https://linkedin.com/in/rasara-perera
+        - name: GitHub
+          url: https://github.com/rasarachamodi
+        - name: Location
+          url: contact/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Rasara Chamodi Perera"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
