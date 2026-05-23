@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud Networking on Rasara Chamodi Perera</title>
+    <link>https://rasarachamodi.github.io/tags/cloud-networking/</link>
+    <description>Recent content in Cloud Networking on Rasara Chamodi Perera</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rasarachamodi.github.io/tags/cloud-networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HND in Cloud Networking</title>
+      <link>https://rasarachamodi.github.io/education/hnd-cloud-networking/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/education/hnd-cloud-networking/</guid>
+      <description>Higher National Diploma in Cloud Networking from SLT-Mobitel NEBULA Institute of Technology.</description>
+    </item>
+  </channel>
+</rss>

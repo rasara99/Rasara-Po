@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rasara Chamodi Perera</title>
+    <link>https://rasarachamodi.github.io/</link>
+    <description>Recent content on Rasara Chamodi Perera</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rasarachamodi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact &amp; Personal Info</title>
+      <link>https://rasarachamodi.github.io/contact/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/contact/</guid>
+      <description>Contact information, personal details, interests, references, and extracurricular volunteering activities.</description>
+    </item>
+    <item>
+      <title>Skills &amp; Strengths</title>
+      <link>https://rasarachamodi.github.io/skills/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/skills/</guid>
+      <description>Detailed overview of technical skills, cloud &amp;amp; networking fundamentals, soft skills, and professional strengths.</description>
+    </item>
+    <item>
+      <title>HND in Cloud Networking</title>
+      <link>https://rasarachamodi.github.io/education/hnd-cloud-networking/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/education/hnd-cloud-networking/</guid>
+      <description>Higher National Diploma in Cloud Networking from SLT-Mobitel NEBULA Institute of Technology.</description>
+    </item>
+    <item>
+      <title>BSc (Hons) in Software Engineering</title>
+      <link>https://rasarachamodi.github.io/education/bsc-software-engineering/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/education/bsc-software-engineering/</guid>
+      <description>Bachelor of Science (Hons) in Software Engineering awarded by Birmingham City University.</description>
+    </item>
+    <item>
+      <title>Web Application Development Projects</title>
+      <link>https://rasarachamodi.github.io/projects/web-apps/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/projects/web-apps/</guid>
+      <description>A showcase of responsive and dynamic web applications built using React, Node.js, and modern front-end technologies.</description>
+    </item>
+    <item>
+      <title>Database Management Projects</title>
+      <link>https://rasarachamodi.github.io/projects/databases/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/projects/databases/</guid>
+      <description>Projects showcasing relational and non-relational database design, CRUD implementation, and query performance optimizations.</description>
+    </item>
+    <item>
+      <title>Programming Logic &amp; OOP Projects</title>
+      <link>https://rasarachamodi.github.io/projects/programming-oop/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rasarachamodi.github.io/projects/programming-oop/</guid>
+      <description>Console-based applications and programming solutions applying OOP principles, algorithms, and data structures in Java and Python.</description>
+    </item>
+  </channel>
+</rss>
